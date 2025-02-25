@@ -1,0 +1,12 @@
+{
+  "packages": {
+    "nano": {
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/RoanElmos/lnx-packages/main/packages/nano-1.0.0.lnx"
+    },
+    "vim": {
+      "version": "9.0.0",
+      "url": "https://raw.githubusercontent.com/RoanElmos/lnx-packages/main/packages/vim-9.0.0.lnx"
+    }
+  }
+}
